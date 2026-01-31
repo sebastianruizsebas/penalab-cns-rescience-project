@@ -1,7 +1,6 @@
 # Private research journals and personal notes
-research-journal.md
-*-journal.md
-.personal/
+private-journal.md
+
 
 # Python
 __pycache__/
