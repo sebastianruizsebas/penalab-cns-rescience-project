@@ -1,0 +1,4 @@
+name: project1spring26
+dependencies:
+  - python=3.14
+  - brian2
